@@ -28,10 +28,10 @@
       "@db/entities": ["backend/database/src/lib/entities"],
       "@environments": ["config/constants.ts"],
       "@nx-boilerplate/frontend/ui": ["frontend/ui/src/index.ts"],
-      "@ui/components": ["frontend/ui/components"],
+      "@services": ["frontend/app/src/common/services"],
       "@types": ["frontend/app/src/common/types"],
-      "@utils": ["frontend/app/src/utils"],
-      "@services": ["frontend/app/src/common/services"]
+      "@ui/components": ["frontend/ui/components"],
+      "@utils": ["frontend/app/src/utils"]
     }
   },
   "exclude": ["node_modules", "tmp"]

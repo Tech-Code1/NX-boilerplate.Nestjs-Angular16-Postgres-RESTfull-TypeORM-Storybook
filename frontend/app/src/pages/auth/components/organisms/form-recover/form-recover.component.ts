@@ -4,9 +4,10 @@ import { FormUtilitiesService } from '@utils';
 import { RecoverStateService } from '../../../service/state';
 
 @Component({
-  selector: 'form-recover',
-  templateUrl: './form-recover.component.html',
-  styleUrls: ['./form-recover.component.scss'],
+    selector: 'form-recover',
+    templateUrl: './form-recover.component.html',
+    styleUrls: ['./form-recover.component.scss'],
+    standalone: false
 })
 export class FormRecoverComponent implements OnInit {
   private formBuilder = inject(FormBuilder);

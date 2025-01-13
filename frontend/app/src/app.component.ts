@@ -4,9 +4,10 @@ import { LoginStateService } from './pages/auth/service/state';
 import { AuthStatus } from './pages/auth/types';
 
 @Component({
-  selector: 'root',
-  templateUrl: './app.component.html',
-  styleUrls: [],
+    selector: 'root',
+    templateUrl: './app.component.html',
+    styleUrls: [],
+    standalone: false
 })
 export class AppComponent implements OnInit {
   title = 'Template Angular';

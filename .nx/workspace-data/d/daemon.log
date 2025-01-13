@@ -1,0 +1,182 @@
+[NX Daemon Server] - 2025-01-12T22:07:51.918Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:07:51.928Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:07:51.933Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:07:51.934Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:07:51.938Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:07:51.942Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:07:51.945Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:07:51.946Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2025-01-12T22:07:51.946Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:07:51.947Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:07:51.947Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T22:16:40.370Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:16:40.379Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:16:40.386Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:16:40.387Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:16:40.391Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:16:40.395Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:16:40.398Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:16:40.398Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2025-01-12T22:16:40.399Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:16:40.399Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:16:40.400Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T22:22:03.081Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:22:03.106Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:22:03.122Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:22:03.127Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:22:03.140Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:22:03.151Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:22:03.158Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:22:03.160Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 9.
+[NX Daemon Server] - 2025-01-12T22:22:03.160Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:22:03.162Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:22:03.165Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T22:25:38.851Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:25:38.978Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:25:38.994Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:25:38.999Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:25:39.011Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:25:39.020Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:25:39.027Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:25:39.029Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 10.
+[NX Daemon Server] - 2025-01-12T22:25:39.030Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:25:39.032Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:25:39.034Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T22:37:43.548Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:37:43.843Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:37:43.846Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:37:43.847Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:37:43.850Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:37:43.853Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:37:43.854Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:37:43.854Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2025-01-12T22:37:43.855Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:37:43.855Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:37:43.855Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+[NX Daemon Server] - 2025-01-12T22:53:34.795Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:53:34.826Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:53:34.835Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:53:34.837Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:53:34.842Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:53:34.848Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:53:34.851Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:53:34.852Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 4.
+[NX Daemon Server] - 2025-01-12T22:53:34.852Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:53:34.853Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:53:34.854Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T22:58:45.174Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:58:45.232Z - [WATCHER]: Subscribed to changes within: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:58:45.244Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:58:45.253Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:58:45.274Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:58:45.277Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:58:45.280Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:58:45.289Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-01-12T22:58:46.538Z - Time taken for 'Load Nx Plugin: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\plugins\package-json' 1175.3938000000003ms
+[NX Daemon Server] - 2025-01-12T22:58:46.549Z - Time taken for 'Load Nx Plugin: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 1146.9299000000005ms
+[NX Daemon Server] - 2025-01-12T22:58:48.713Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-01-12T22:58:48.714Z - [REQUEST]: 
+[NX Daemon Server] - 2025-01-12T22:58:48.714Z - [REQUEST]: 
+[NX Daemon Server] - 2025-01-12T22:58:48.783Z - Time taken for 'loadNxPlugins' 3410.6153000000004ms
+[NX Daemon Server] - 2025-01-12T22:59:37.463Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:59:37.465Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:59:37.468Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:59:37.475Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:59:37.475Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:59:37.476Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2025-01-12T22:59:37.477Z - [WATCHER]: Stopping the watcher for f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:59:37.477Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:59:37.477Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:59:37.478Z - [WATCHER]: Stopping the watcher for f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T22:59:39.508Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T22:59:39.521Z - [WATCHER]: Subscribed to changes within: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T22:59:39.551Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:59:39.553Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:59:39.558Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:59:39.567Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2025-01-12T22:59:39.569Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2025-01-12T22:59:39.569Z - Handled GLOB. Handling time: 5. Response time: 2.
+[NX Daemon Server] - 2025-01-12T22:59:41.123Z - Time taken for 'Load Nx Plugin: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\plugins\js' 1484.8008ms
+[NX Daemon Server] - 2025-01-12T22:59:41.125Z - Time taken for 'Load Nx Plugin: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\plugins\package-json' 1449.7486000000001ms
+[NX Daemon Server] - 2025-01-12T22:59:41.147Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-01-12T22:59:41.147Z - [REQUEST]: 
+[NX Daemon Server] - 2025-01-12T22:59:41.148Z - [REQUEST]: 
+[NX Daemon Server] - 2025-01-12T22:59:41.181Z - Time taken for 'loadNxPlugins' 1507.4007000000001ms
+[NX Daemon Server] - 2025-01-12T22:59:46.495Z - Time taken for 'build-project-configs' 5211.0965ms
+[NX Daemon Server] - 2025-01-12T22:59:46.502Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX Daemon Server] - 2025-01-12T22:59:46.503Z - Done responding to the client handleNxWorkspaceFiles
+[NX Daemon Server] - 2025-01-12T22:59:46.503Z - Handled GET_NX_WORKSPACE_FILES. Handling time: 4. Response time: 1.
+[NX Daemon Server] - 2025-01-12T22:59:46.716Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-01-12T22:59:46.720Z - Time taken for 'total execution time for createProjectGraph()' 239.0057999999999ms
+[NX Daemon Server] - 2025-01-12T22:59:46.760Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2025-01-12T22:59:46.762Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2025-01-12T22:59:46.762Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 3. Response time: 2.
+[NX Daemon Server] - 2025-01-12T22:59:46.772Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:05:53.937Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-01-12T23:05:54.316Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-01-12T23:05:54.317Z - [WATCHER]: Stopping the watcher for f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T23:05:54.318Z - [WATCHER]: Stopping the watcher for f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T23:35:17.266Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T23:35:17.273Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T23:35:17.279Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:35:17.281Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:35:17.282Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:35:17.284Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:35:17.285Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:35:17.286Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2025-01-12T23:35:17.286Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:35:17.286Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T23:35:17.286Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+[NX Daemon Server] - 2025-01-12T23:35:20.391Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T23:35:20.397Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T23:35:20.405Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:35:20.407Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:35:20.408Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:35:20.409Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:35:20.410Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:35:20.410Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2025-01-12T23:35:20.411Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T23:35:20.411Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:35:20.411Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+[NX Daemon Server] - 2025-01-12T23:44:49.358Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T23:44:49.363Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T23:44:49.365Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:44:49.366Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T23:44:49.368Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:44:49.370Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:44:49.371Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:44:49.371Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2025-01-12T23:44:49.372Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T23:44:49.372Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:44:49.372Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T23:45:39.296Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T23:45:39.300Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T23:45:39.305Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:45:39.306Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T23:45:39.308Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:45:39.311Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:45:39.312Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:45:39.312Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2025-01-12T23:45:39.312Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:45:39.313Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T23:45:39.313Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+[NX Daemon Server] - 2025-01-12T23:46:10.771Z - Started listening on: \\.\pipe\nx\C:\Users\David\AppData\Local\Temp\0cd0c35ccfd2fc85ee69\d.sock
+[NX Daemon Server] - 2025-01-12T23:46:10.775Z - [WATCHER]: Subscribed to changes within: F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (native)
+[NX Daemon Server] - 2025-01-12T23:46:10.779Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:46:10.781Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:46:10.782Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T23:46:10.783Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:46:10.784Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T23:46:10.784Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2025-01-12T23:46:10.785Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T23:46:10.785Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T23:46:10.786Z - [WATCHER]: Stopping the watcher for F:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)

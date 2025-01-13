@@ -1,0 +1,26 @@
+Daemon process terminated and closed the connection
+
+Messages from the log:
+[NX Daemon Server] - 2025-01-12T22:58:45.277Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:58:45.280Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:58:45.289Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-01-12T22:58:46.538Z - Time taken for 'Load Nx Plugin: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\plugins\package-json' 1175.3938000000003ms
+[NX Daemon Server] - 2025-01-12T22:58:46.549Z - Time taken for 'Load Nx Plugin: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 1146.9299000000005ms
+[NX Daemon Server] - 2025-01-12T22:58:48.713Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-01-12T22:58:48.714Z - [REQUEST]: 
+[NX Daemon Server] - 2025-01-12T22:58:48.714Z - [REQUEST]: 
+[NX Daemon Server] - 2025-01-12T22:58:48.783Z - Time taken for 'loadNxPlugins' 3410.6153000000004ms
+[NX Daemon Server] - 2025-01-12T22:59:37.463Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:59:37.465Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:59:37.468Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-01-12T22:59:37.475Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:59:37.475Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-01-12T22:59:37.476Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2025-01-12T22:59:37.477Z - [WATCHER]: Stopping the watcher for f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (sources)
+[NX Daemon Server] - 2025-01-12T22:59:37.477Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-01-12T22:59:37.477Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-01-12T22:59:37.478Z - [WATCHER]: Stopping the watcher for f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres (outputs)
+
+
+
+More information: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\.nx\workspace-data\d\daemon.log

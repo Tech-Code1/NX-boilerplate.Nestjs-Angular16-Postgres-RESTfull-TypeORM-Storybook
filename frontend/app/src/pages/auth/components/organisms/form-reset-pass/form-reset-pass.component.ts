@@ -4,9 +4,10 @@ import { FormUtilitiesService, ValidatorsService } from '@utils';
 import { ResetStateService } from '../../../service/state';
 
 @Component({
-  selector: 'form-reset-pass',
-  templateUrl: './form-reset-pass.component.html',
-  styleUrls: ['./form-reset-pass.component.scss'],
+    selector: 'form-reset-pass',
+    templateUrl: './form-reset-pass.component.html',
+    styleUrls: ['./form-reset-pass.component.scss'],
+    standalone: false
 })
 export class FormResetPassComponent implements OnInit {
   private formBuilder = inject(FormBuilder);

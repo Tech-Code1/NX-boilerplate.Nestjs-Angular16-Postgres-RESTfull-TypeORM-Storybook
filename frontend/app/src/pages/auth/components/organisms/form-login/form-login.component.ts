@@ -4,9 +4,10 @@ import { FormUtilitiesService } from '@utils';
 import { LoginStateService } from '../../../service/state';
 
 @Component({
-  selector: 'form-login',
-  templateUrl: './form-login.component.html',
-  styleUrls: ['./form-login.component.scss'],
+    selector: 'form-login',
+    templateUrl: './form-login.component.html',
+    styleUrls: ['./form-login.component.scss'],
+    standalone: false
 })
 export class FormLoginComponent implements OnInit {
   private formBuilder = inject(FormBuilder);

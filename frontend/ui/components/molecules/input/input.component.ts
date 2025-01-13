@@ -16,25 +16,24 @@ import { ControlValueAccesorDirective } from '../../shared/directives/control-va
 import { InputType } from './input.interface';
 
 @Component({
-  standalone: true,
-  selector: 'c-input',
-  imports: [
-    CommonModule,
-    FormsModule,
-    ReactiveFormsModule,
-    ErrorInputComponent,
-  ],
-  providers: [
-    {
-      provide: NG_VALUE_ACCESSOR,
-      useExisting: forwardRef(() => InputComponent),
-      multi: true,
-    },
-  ],
-  templateUrl: './input.component.html',
-  styleUrls: ['./input.component.scss'],
-  encapsulation: ViewEncapsulation.Emulated,
-  changeDetection: ChangeDetectionStrategy.OnPush,
+    selector: 'c-input',
+    imports: [
+        CommonModule,
+        FormsModule,
+        ReactiveFormsModule,
+        ErrorInputComponent,
+    ],
+    providers: [
+        {
+            provide: NG_VALUE_ACCESSOR,
+            useExisting: forwardRef(() => InputComponent),
+            multi: true,
+        },
+    ],
+    templateUrl: './input.component.html',
+    styleUrls: ['./input.component.scss'],
+    encapsulation: ViewEncapsulation.Emulated,
+    changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class InputComponent<T>
   extends ControlValueAccesorDirective<T>

@@ -1,0 +1,26 @@
+Failed to start or connect to the Nx Daemon process.
+
+Messages from the log:
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1084:15)
+    at node:internal/modules/cjs/loader:929:27
+    at Function._load (node:electron/js2c/node_init:2:13357)
+    at Module.require (node:internal/modules/cjs/loader:1150:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\node_modules\nx\src\native\index.js:66:29)
+    at Module._compile (node:internal/modules/cjs/loader:1271:14)
+    at Object..js (node:internal/modules/cjs/loader:1326:10)
+    at Module.load (node:internal/modules/cjs/loader:1126:32)
+    at node:internal/modules/cjs/loader:967:12 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'f:\\projects\\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\\node_modules\\nx\\src\\native\\index.js',
+    'f:\\projects\\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\\node_modules\\nx\\src\\daemon\\server\\server.js',
+    'f:\\projects\\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\\node_modules\\nx\\src\\daemon\\server\\start.js'
+  ]
+}
+
+Node.js v18.17.1
+
+
+
+More information: f:\projects\NX-boilerplate.Nestjs-RESTfull-Angular17-Postgres\.nx\cache\d\daemon.log

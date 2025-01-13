@@ -5,9 +5,10 @@ import { BehaviorSubject } from 'rxjs';
 import { RegisterStateService } from '../../../service/state/register.state.service';
 
 @Component({
-  selector: 'form-register',
-  templateUrl: './form-register.component.html',
-  styleUrls: ['./form-register.component.scss'],
+    selector: 'form-register',
+    templateUrl: './form-register.component.html',
+    styleUrls: ['./form-register.component.scss'],
+    standalone: false
 })
 export class FormRegisterComponent implements OnInit {
   private formBuilder = inject(FormBuilder);

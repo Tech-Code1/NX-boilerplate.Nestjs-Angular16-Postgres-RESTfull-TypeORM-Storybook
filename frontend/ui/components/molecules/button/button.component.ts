@@ -8,13 +8,12 @@ import {
 import { ButtonType } from './button.interface';
 
 @Component({
-  standalone: true,
-  selector: 'c-button',
-  imports: [CommonModule],
-  templateUrl: './button.component.html',
-  styleUrls: ['./button.component.scss'],
-  encapsulation: ViewEncapsulation.Emulated,
-  changeDetection: ChangeDetectionStrategy.OnPush,
+    selector: 'c-button',
+    imports: [CommonModule],
+    templateUrl: './button.component.html',
+    styleUrls: ['./button.component.scss'],
+    encapsulation: ViewEncapsulation.Emulated,
+    changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class ButtonComponent implements ButtonType {
   @Input() type: ButtonType['type'] = 'button';

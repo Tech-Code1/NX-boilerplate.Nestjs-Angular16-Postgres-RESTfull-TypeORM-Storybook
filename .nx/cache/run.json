@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run frontend-app:serve",
+    "startTime": "2025-01-12T23:58:42.473Z",
+    "endTime": "2025-01-12T23:58:42.703Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "frontend-app:serve:development",
+      "target": "serve",
+      "projectName": "frontend-app",
+      "hash": "7759412330227093474",
+      "startTime": "2025-01-12T23:58:42.486Z",
+      "endTime": "2025-01-12T23:58:42.702Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

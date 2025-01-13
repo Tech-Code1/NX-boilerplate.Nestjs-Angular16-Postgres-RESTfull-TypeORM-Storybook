@@ -1,36 +1,26 @@
 {
   "migrations": [
     {
-      "version": "16.4.1-beta.0",
-      "description": "Changes the testFile config in the vite:test exectutor from a string to an array of strings",
-      "cli": "nx",
-      "implementation": "./src/migrations/update-16-4-1-update-test-file-config/update-16-4-1-test-file-config",
-      "package": "@nrwl/vite",
-      "name": "update-16-4-1-test-file-config"
+      "version": "19.0.0",
+      "description": "Updates non-standalone Directives, Component and Pipes to 'standalone:false' and removes 'standalone:true' from those who are standalone",
+      "factory": "./bundles/explicit-standalone-flag#migrate",
+      "package": "@angular/core",
+      "name": "explicit-standalone-flag"
     },
     {
-      "version": "16.4.1-beta.0",
-      "description": "Changes the testFile config in the vite:test exectutor from a string to an array of strings",
-      "cli": "nx",
-      "implementation": "./src/migrations/update-16-4-1-update-test-file-config/update-16-4-1-test-file-config",
-      "package": "@nx/vite",
-      "name": "update-16-4-1-test-file-config"
+      "version": "19.0.0",
+      "description": "Updates ExperimentalPendingTasks to PendingTasks",
+      "factory": "./bundles/pending-tasks#migrate",
+      "package": "@angular/core",
+      "name": "pending-tasks"
     },
     {
-      "cli": "nx",
-      "version": "16.5.0-beta.0",
-      "description": "Move .storybook/tsconfig.json to tsconfig.storybook.json for non-Angular projects.",
-      "factory": "./src/migrations/update-16-5-0/move-storybook-tsconfig",
-      "package": "@nx/storybook",
-      "name": "update-16-5-0"
-    },
-    {
-      "cli": "nx",
-      "version": "16.5.0-beta.2",
-      "description": "Add test-setup.ts to ignored files in production input",
-      "implementation": "./src/migrations/update-16-5-0/add-test-setup-to-inputs-ignore",
-      "package": "@nx/jest",
-      "name": "add-test-setup-to-inputs-ignore"
+      "version": "19.0.0",
+      "description": "Replaces `APP_INITIALIZER`, `ENVIRONMENT_INITIALIZER` & `PLATFORM_INITIALIZER` respectively with `provideAppInitializer`, `provideEnvironmentInitializer` & `providePlatformInitializer`.",
+      "factory": "./bundles/provide-initializer#migrate",
+      "optional": true,
+      "package": "@angular/core",
+      "name": "provide-initializer"
     }
   ]
 }
